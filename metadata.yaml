@@ -1,0 +1,34 @@
+_repo: The-ConquestThe-True-Story-of-Lewis-and-Clark_42925
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42925-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dye, Eva Emery
+    birthdate: 1855
+    deathdate: 1947
+    gutenberg_agent_id: '41937'
+    url: http://www.gutenberg.org/2009/agents/41937
+description: ''
+gutenberg_issued: '2013-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42925'
+  lccn: '02027733'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Discoveries in geography -- Fiction'
+- !lcsh 'Lewis, Meriwether, 1774-1809 -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcc 'PS'
+- !lcsh 'West (U.S.) -- History -- To 1848 -- Fiction'
+- !lcsh 'Explorers -- Fiction'
+- !lcsh 'Lewis and Clark Expedition (1804-1806) -- Fiction'
+- !lcsh 'Clark, William, 1770-1838 -- Fiction'
+- !lcsh 'Historical fiction'
+title: 'The Conquest: The True Story of Lewis and Clark'
+url: http://www.gutenberg.org/ebooks/42925
