@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41937'
     url: http://www.gutenberg.org/2009/agents/41937
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42925#The-ConquestThe-True-Story-of-Lewis-and-Clark
 gutenberg_issued: '2013-06-12'
 gutenberg_type: Text
 identifiers:
